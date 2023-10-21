@@ -1,6 +1,6 @@
 ### About Me!
 
-My name is **Mincy** (19) and I'm a silly transfem creature that does not take (almost) anything seriously. 
+My name is Mincy (19), and I'm a silly transfemme creature who doesn't take (almost) anything seriously.
 Coding included.
 
 I love cookies (not the web ones, chocolate cookies) and strawberry milk.
