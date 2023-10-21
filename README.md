@@ -11,8 +11,8 @@ I mostly just contribute to projects by reporting bugs, giving translations and 
 
 **Here is some links if you wanna know what I'm up to:**
 - [Personal website (neocities)](https://mincy.neocities.org/) ; [Personal website (barr0wnet)](https://alphamethyl.barr0w.net/~sleepybunny/)
-- [My Mastodon](https://tech.lgbt/@sleepybunny/) ; [Element](https://matrix.to/#/@sleepybunny:matrix.org/)
-- [Email](mailto:sleepybunbun@proton.me) (not the best way to contact me, though...)
+- [My Mastodon](https://tech.lgbt/@sleepybunny/) ; [My Element](https://matrix.to/#/@sleepybunny:matrix.org/)
+- [My Email](mailto:sleepybunbun@proton.me) (not the best way to contact me, though...)
 
 **Here is some projects I'm currently working on:**
 - ...Nothing here, yet. *Working* on it.
