@@ -1,6 +1,6 @@
 ### About Me!
 
-My name is Mincy (19), and I'm a silly transfemme creature who doesn't take (almost) anything seriously.
+My name is Mincy (21), and I'm a silly transfemme creature who doesn't take (almost) anything seriously.
 Coding included.
 
 I mostly just contribute to projects by reporting bugs, giving translations and very rarely do something on my own.
