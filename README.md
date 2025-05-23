@@ -23,5 +23,4 @@ I love cookies (not the web ones, chocolate cookies) and strawberry milk.
 - [Invidious](https://github.com/iv-org/invidious) - Privacy respecting YouTube front-end.
 - [Linux](https://github.com/torvalds/linux) - Well, of course.
 - [Vim](https://github.com/vim/vim) - Vim.
-- [RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music. 
 - More to come...
