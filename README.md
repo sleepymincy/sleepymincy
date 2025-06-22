@@ -17,10 +17,16 @@ I love cookies (not the web ones, chocolate cookies) and strawberry milk.
 **Here is some projects I'm currently working on:**
 - [mommy](https://github.com/sleepymincy/mommy) - I'm not sorry.
 
-**Here is some FOSS projects I recommend:**
+**Here is some FOSS projects I really like:**
+- [Linux](https://github.com/torvalds/linux) - Obviously, it had to be here.
+- [Helix](https://github.com/helix-editor/helix) - Postmodern text editor!
+- [Niri](https://github.com/YaLTeR/niri) - Cute lil scrolling WM.
+- [Pastel](https://github.com/sharkdp/pastel) - Extremely cool color palettes tool.
+- [Astroterm](https://github.com/da-luce/astroterm) - Planetarium in your terminal!
+- [Caligula](https://github.com/ifd3f/caligula) - For disk destroying activities.
+- [Anubis](https://github.com/TecharoHQ/anubis) - AI is bad at math puzzles.
+- [Zellij](https://github.com/zellij-org/zellij) - Do you really need a GUI to do your job?
 - [Nitter](https://github.com/zedeus/nitter) - Privacy respecting Twitter front-end.
-- [Libreddit](https://github.com/libreddit/libreddit) - Privacy respecting Reddit front-end.
+- [Redlib](https://github.com/redlib-org/redlib) - Privacy respecting Reddit front-end.
 - [Invidious](https://github.com/iv-org/invidious) - Privacy respecting YouTube front-end.
-- [Linux](https://github.com/torvalds/linux) - Well, of course.
-- [Vim](https://github.com/vim/vim) - Vim.
-- More to come...
+- [... And more!](https://github.com/sleepymincy?tab=stars)
