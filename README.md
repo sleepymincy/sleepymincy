@@ -11,7 +11,7 @@ I love cookies (not the web ones, chocolate cookies) and strawberry milk.
 
 **Here is some links if you wanna know what I'm up to:**
 - [Personal website (neocities)](https://mincy.neocities.org/) ; [Personal website (nekoweb)](https://mincy.nekoweb.org/) ; [Personal website (barr0wnet)](https://alphamethyl.barr0w.net/~sleepybunny/)
-- [My Mastodon](https://tech.lgbt/@sleepybunny/) ; [My Element](https://matrix.to/#/@sleepybunny:matrix.org/)
+- [My Mastodon](https://tech.lgbt/@sleepybunny/) ; [My Element](https://matrix.to/#/@sleepymincy:4d2.org) ; [My Bsky](https://bsky.app/profile/sleepymincy.bsky.social)
 - [My Email](mailto:sleepymincy@proton.me) (not the best way to contact me, though...)
 
 **Here is some projects I'm currently working on:**
