@@ -16,6 +16,7 @@ I love cookies (not the web ones, chocolate cookies) and strawberry milk.
 
 **Here is some projects I'm currently working on:**
 - [mommy](https://github.com/sleepymincy/mommy) - I'm not sorry.
+- [entropy-calc](https://github.com/sleepymincy/entropy-calc) - Shannon entropy calculator written in Rust.
 - [swg](https://github.com/sleepymincy/swg) - Wordlist Generator written in C.
 
 **Here is some FOSS projects I really like:**
